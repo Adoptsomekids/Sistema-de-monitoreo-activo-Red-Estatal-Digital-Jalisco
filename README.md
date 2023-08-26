@@ -1,8 +1,5 @@
 # Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco
 Proyecto modular 2023B - Sistema de monitoreo activo de la Red Estatal Digital de Jalisco - Emilio Josafat Giacomo Quintero - INCO
-# Título del Proyecto
-
-_Acá va un párrafo que describa lo que es el proyecto_
 
 ## Comenzando 🚀
 
@@ -10,48 +7,46 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
-
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+Raspbian - Debian 11
+Python 3.9
+Firmware Teltonika RUT2_R_00.07.04.2
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Implementación para ejecución de entorno de desarrollo_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Desde CLI de Raspberry Pi_
 
 ```
-hasta finalizar
-```
+sudo apt update
+sudo apt upgrade
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+R3_REGISTRATION_CODE="BC12
+sudo apt install xrdp
+sudo apt instal gpio
+
+systemctl start xrdp
+systemctl status xrdp
+```
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Verificación de registro de equipos en Remote.IT y acceso por medio de protocolos SSH y RDP_
 
-### Analice las pruebas end-to-end 🔩
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/ca090257-e784-445a-92b5-1e2b73cdc7fb)
 
-_Explica que verifican estas pruebas y por qué_
 
-```
-Da un ejemplo
-```
+_Verificación de pines GPIO_
 
-### Y las pruebas de estilo de codificación ⌨️
+### Pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+_Pruebas desde script .sh para reinicio de equipos_
 
 ```
 Da un ejemplo
@@ -65,10 +60,9 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Shell Scripting](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
+* [Remote.IT](https://www.remote.it/) - Software para gestión remota de equipos por medio de SSH y RDP
 ## Contribuyendo 🖇️
 
 Por favor lee el [CONTRIBUTING.md](https://gist.github.com//xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
