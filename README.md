@@ -68,20 +68,14 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Python](https://www.python.org/) - Lenguaje de programación.
 * [Remote.IT](https://www.remote.it/) - Software para gestión remota de equipos por medio de SSH y RDP.
 * [Teltonika](https://rms.teltonika-networks.com/) - Software para verificación de alarmas por medio de SMS a través de SIM.
+* [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - Software para carga de sistema operativo dentro de Raspberry Pi.
+
   
 ## Contribuciones / Agradecimientos 🖇️
 
 Participación directa dentro del proyecto [RED JALISCO](https://red.jalisco.gob.mx/) 
 
 Infraestructura / Soporte / Recursos - Empresa de implementación - [HEMAC](https://www.grupohemac.com.mx/) 
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autor ✒️
 
@@ -96,9 +90,6 @@ Este proyecto está bajo la Licencia () - mira el archivo [LICENSE.md](LICENSE.m
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
 
 
 ---
