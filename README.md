@@ -69,9 +69,11 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Remote.IT](https://www.remote.it/) - Software para gestión remota de equipos por medio de SSH y RDP.
 * [Teltonika](https://rms.teltonika-networks.com/) - Software para verificación de alarmas por medio de SMS a través de SIM.
   
-## Contribuyendo 🖇️
+## Contribuciones / Agradecimientos 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com//xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Participación directa dentro del proyecto [RED JALISCO](https://red.jalisco.gob.mx/) 
+
+Infraestructura / Soporte / Recursos - Empresa de implementación - [HEMAC](https://www.grupohemac.com.mx/) 
 
 ## Wiki 📖
 
@@ -81,13 +83,9 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+## Autor ✒️
 
 * **Emilio Josafat Giacomo Quintero** - *Autor del proyecto* - [Adoptsomekids](https://github.com/Adoptsomekids)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
