@@ -42,18 +42,19 @@ systemctl status xrdp
 
 _Verificación de registro de equipos en Remote.IT y acceso por medio de protocolos SSH y RDP_
 
-![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/ca090257-e784-445a-92b5-1e2b73cdc7fb)
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/5f8a2fe5-b635-4cb9-9f4f-71ffc7b398af)
 
-
-_Verificación de pines GPIO_
+_Verificación de pines GPIO en módulo relevador de 4 canales_
 
 ### Pruebas de estilo de codificación ⌨️
 
 _Pruebas desde script .sh para reinicio de equipos_
 
-```
-Da un ejemplo
-```
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/ef140d7b-4fe6-4c07-b49f-6b734c4682f8)
+
+_Funcionamiento de daemon para conexión SLA_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/01a4f177-f5f1-4c2b-8162-8a6c5bf896c4)
 
 ## Despliegue 📦
 
@@ -63,9 +64,11 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Shell Scripting](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [Remote.IT](https://www.remote.it/) - Software para gestión remota de equipos por medio de SSH y RDP
+* [Shell Scripting](https://www.shellscript.sh/) - Lenguaje de scripting usado.
+* [Python](https://www.python.org/) - Lenguaje de programación.
+* [Remote.IT](https://www.remote.it/) - Software para gestión remota de equipos por medio de SSH y RDP.
+* [Teltonika](https://rms.teltonika-networks.com/) - Software para verificación de alarmas por medio de SMS a través de SIM.
+  
 ## Contribuyendo 🖇️
 
 Por favor lee el [CONTRIBUTING.md](https://gist.github.com//xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
