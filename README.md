@@ -18,6 +18,9 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 Raspbian - Debian 11
 Python 3.9
 Firmware Teltonika RUT2_R_00.07.04.2
+pip install aiogram==2.22.1
+pip3 show aiogram
+python3.9 Active\ monitoring.py 
 ```
 
 ### Instalación 🔧
