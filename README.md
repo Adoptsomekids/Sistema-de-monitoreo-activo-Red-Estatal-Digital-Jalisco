@@ -45,7 +45,9 @@ systemctl status xrdp
 
 _Verificación de registro de equipos en Remote.IT y acceso por medio de protocolos SSH y RDP_
 
-![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/5f8a2fe5-b635-4cb9-9f4f-71ffc7b398af)
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/0c39c3cb-fe56-47ff-b817-d34865d73692)
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/abe3ab90-4c17-455d-8c6f-7d3a2aa40570)
 
 _Verificación de pines GPIO en módulo relevador de 4 canales_
 
@@ -53,15 +55,26 @@ _Verificación de pines GPIO en módulo relevador de 4 canales_
 
 _Pruebas desde script .sh para reinicio de equipos_
 
-![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/ef140d7b-4fe6-4c07-b49f-6b734c4682f8)
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/ca2ef4f0-ae10-4215-b6d6-16a04f8aa776)
 
 _Funcionamiento de daemon para conexión SLA_
 
-![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/01a4f177-f5f1-4c2b-8162-8a6c5bf896c4)
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/7379e4be-1c22-4f05-ad4e-a9a5843b9ea3)
+
+_Verficación de temperatura_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/b1aa24ba-db09-4e26-955a-d7f8ce0456bd)
+
+_Consulta de logs_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/f09d5095-668b-45da-b9b1-964176c6bb4f)
+
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Deployment desde servidor local del dispositivo (Raspberry Pi)_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/8f93cbb1-579f-4364-a6cd-a575d1e38b32)
 
 ## Construido con 🛠️
 
@@ -82,18 +95,11 @@ Infraestructura / Soporte / Recursos - Empresa de implementación - [HEMAC](http
 
 ## Autor ✒️
 
-* **Emilio Josafat Giacomo Quintero** - *Autor del proyecto* - [Adoptsomekids](https://github.com/Adoptsomekids)
+* **Emilio Josafat Giacomo Quintero** - Desarrollo / Codificación - [Adoptsomekids](https://github.com/Adoptsomekids)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia () - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-
+Este proyecto está bajo Licencia GPG
 
 ---
-⌨️ con ❤️ por [Adoptsomekids](https://github.com/Adoptsomekids) 😊
+⌨️ con ❤️ por [Adoptsomekids](https://github.com/Adoptsomekids) 😸
