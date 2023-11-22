@@ -1,7 +1,7 @@
 # Sistema de monitoreo activo para la Red Estatal Digital de Jalisco
 `Proyecto modular 2023B - Emilio Josafat Giacomo Quintero - INCO`
 
-![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/3044989f-bca6-44f6-83b3-1b071d2faa9a)
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/464267f3-ad65-49b2-a2da-c0cc714942ae)
 
 
 ## Comenzando 🚀
@@ -96,6 +96,8 @@ Infraestructura / Soporte / Recursos - Empresa de implementación - [HEMAC](http
 ## Autor ✒️
 
 * **Emilio Josafat Giacomo Quintero** - Desarrollo / Codificación - [Adoptsomekids](https://github.com/Adoptsomekids)
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/3044989f-bca6-44f6-83b3-1b071d2faa9a)
 
 ## Licencia 📄
 
