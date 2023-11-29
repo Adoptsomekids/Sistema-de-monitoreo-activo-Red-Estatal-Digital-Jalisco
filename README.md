@@ -86,6 +86,10 @@ _Implementación física en Radio Base estatal con conexión a equipos de enlace
 
 ![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/77dc8231-86a7-4998-af35-2333134cb575)
 
+_Diagrama de componentes físicos_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/35c77399-9033-48d1-b301-f34eefc6669f)
+
 
 ## Construido con 🛠️
 
