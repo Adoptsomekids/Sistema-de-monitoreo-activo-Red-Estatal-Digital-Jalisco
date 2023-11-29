@@ -76,6 +76,17 @@ _Deployment desde servidor local del dispositivo (Raspberry Pi)_
 
 ![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/8f93cbb1-579f-4364-a6cd-a575d1e38b32)
 
+## Gabinete físico 📦
+
+_Gabinete de proyecto completamente armado_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/43f74ddf-5d1b-4474-9e7c-d35a507e1ae7)
+
+_Implementación física en Radio Base estatal con conexión a equipos de enlace principal_
+
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/77dc8231-86a7-4998-af35-2333134cb575)
+
+
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
@@ -101,7 +112,7 @@ Infraestructura / Soporte / Recursos - Empresa de implementación - [HEMAC](http
 
 ## Licencia 📄
 
-Este proyecto está bajo Licencia MIT
+Este proyecto está bajo Licencia [MIT License](http://opensource.org/licenses/MIT)
 
 ---
 ⌨️ con ❤️ por [Adoptsomekids](https://github.com/Adoptsomekids) 😸
