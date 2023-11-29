@@ -101,7 +101,7 @@ Infraestructura / Soporte / Recursos - Empresa de implementación - [HEMAC](http
 
 ## Licencia 📄
 
-Este proyecto está bajo Licencia GPG
+Este proyecto está bajo Licencia MIT
 
 ---
 ⌨️ con ❤️ por [Adoptsomekids](https://github.com/Adoptsomekids) 😸
