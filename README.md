@@ -1,5 +1,5 @@
 # Sistema de monitoreo activo para la Red Estatal Digital de Jalisco
-`Proyecto modular 2023B - Emilio Josafat Giacomo Quintero - INCO`
+`Proyecto modular 2023B - Emilio Josafat Giacomo Quintero - Computer Engineering`
 
 ![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/464267f3-ad65-49b2-a2da-c0cc714942ae)
 
@@ -49,8 +49,6 @@ _Verificación de registro de equipos en Remote.IT y acceso por medio de protoco
 
 ![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/abe3ab90-4c17-455d-8c6f-7d3a2aa40570)
 
-_Verificación de pines GPIO en módulo relevador de 4 canales_
-
 ### Pruebas de estilo de codificación ⌨️
 
 _Pruebas desde script .sh para reinicio de equipos_
@@ -76,9 +74,9 @@ _Deployment desde servidor local del dispositivo (Raspberry Pi)_
 
 ![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/8f93cbb1-579f-4364-a6cd-a575d1e38b32)
 
-## Gabinete físico 📦
+## Gabinete físico 🛰️
 
-_Gabinete de proyecto completamente armado_
+_Gabinete de proyecto armado y en funcionamiento_
 
 ![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/43f74ddf-5d1b-4474-9e7c-d35a507e1ae7)
 
@@ -88,12 +86,9 @@ _Implementación física en Radio Base estatal con conexión a equipos de enlace
 
 _Diagrama de componentes físicos_
 
-![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/35c77399-9033-48d1-b301-f34eefc6669f)
-
+![image](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco/assets/83385717/59c525ee-0860-4b6d-9367-2f613f16044d)
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Shell Scripting](https://www.shellscript.sh/) - Lenguaje de scripting usado.
 * [Python](https://www.python.org/) - Lenguaje de programación.
